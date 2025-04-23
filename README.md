@@ -5,6 +5,7 @@ This project uses a linear regression model to predict house prices based on the
 ## 📁 Dataset
 - **Source**: Kaggle  
 - **File Used**: `USA Housing Dataset.csv`
+- **Kaggle Link**: https://www.kaggle.com/datasets/fratzcan/usa-house-prices
 
 ## 🧠 Features Used
 - Bedrooms, Bathrooms, Sqft Living, Sqft Lot, Floors  
